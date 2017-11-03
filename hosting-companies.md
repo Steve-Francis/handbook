@@ -19,6 +19,7 @@ In alphabetical order:
 * [Liquid Web](https://liquidweb.com/wordpress)
 * [Kinsta](https://kinsta.com)
 * [Media Temple](http://mediatemple.net)
+* [MilesWeb](https://www.milesweb.com)
 * [Monarobase](https://monarobase.net/wordpress)
 * [NameHero](https://www.namehero.com)
 * [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net/)
